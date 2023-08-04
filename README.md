@@ -1,3 +1,4 @@
+Welcome to my page!
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Doraemon, a coding cat;Full-Stack%20Developer;Web%20andBlockchain%20master;7%2B%20years%20of%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior Full Stack Blockchain Developer</h1>
 <br>
